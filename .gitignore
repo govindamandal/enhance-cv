@@ -1,0 +1,11 @@
+node_modules
+.nuxt
+.output
+dist
+.data
+.vercel
+.env
+.env.*
+.DS_Store
+outputs
+work
